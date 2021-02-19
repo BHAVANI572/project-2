@@ -1,0 +1,30 @@
+{
+	"products":[
+		{
+			"name":"redmi k20",
+			"image":"img/k20.jpg",
+			"price":"27000",
+			"dprice":"24000"
+		},{
+			"name":"samsung A30",
+			"image":"img/2.png",
+			"price":"14000",
+			"dprice":"9000"
+		},{
+			"name":"one plus nord",
+			"image":"img/1.jpg",
+			"price":"50000",
+			"dprice":"24000"
+		},{
+			"name":"lG G8x",
+			"image":"img/4.jpg",
+			"price":"70000",
+			"dprice":"30000"
+		},{
+			"name":"iphone 12pro",
+			"image":"img/5.jpg",
+			"price":"`100000",
+			"dprice":"50000"
+		}
+	]
+}
